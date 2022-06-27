@@ -1,0 +1,16 @@
+VMWare Workstation Pro:
+https://www.vmware.com/products/workstation-pro/workstation-pro-evaluation.html
+
+Product Key-->   ZF3R0-FHED2-M80TY-8QYGC-NPKYF
+
+
+Oracle VirtualBox:
+https://www.virtualbox.org/wiki/Downloads
+
+
+
+Windows VM:
+https://developer.microsoft.com/en-us/windows/downloads/virtual-machines/
+
+Kali VM:
+https://www.kali.org/get-kali/#kali-virtual-machines
